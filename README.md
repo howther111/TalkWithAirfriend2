@@ -1,0 +1,2 @@
+# TalkWithAirfriend2
+TalkWithAirfriendに感情分析と表情変化をつけました
