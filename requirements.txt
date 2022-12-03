@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######`
+pyautogui
+pyperclip
+opencv-python
+mecab-python3
+pymlask
+pywin32
