@@ -5,3 +5,5 @@ opencv-python
 mecab-python3
 pymlask
 pywin32
+SpeechRecognition
+pyaudio
