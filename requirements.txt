@@ -7,3 +7,4 @@ pymlask
 pywin32
 SpeechRecognition
 pyaudio
+openai
